@@ -33,25 +33,17 @@ Voorbeelden
 
 --
 
-## Voorbeeld legenda 1
-
 ![Voorbeeld legenda 1](./images/Legenda1.png)<!-- .element height="80%" width="80%" -->
 
 --
-
-## Voorbeeld legenda 2
 
 ![Voorbeeld legenda 2](./images/Legenda2.png)<!-- .element height="90%" width="90%" -->
 
 --
 
-## Voorbeeld legenda 3
-
 ![Voorbeeld legenda 3](./images/Legenda3.png)<!-- .element height="80%" width="80%" -->
 
 --
-
-## Voorbeeld legenda 4
 
 ![Voorbeeld legenda 4](./images/Legenda4.png)<!-- .element height="60%" width="60%" -->
 
@@ -63,28 +55,19 @@ Voorbeelden doorsnedes
 
 --
 
-## Voorbeeld doorsnede 1
-
 ![Voorbeeld Doorsnede 1](./images/Doorsnede1.png)<!-- .element height=" 70%" width="70%" -->
 
 --
-
-## Voorbeeld doorsnede 1A
 
 ![Voorbeeld Doorsnede 1A](./images/Doorsnede1a.png)<!-- .element height="70%" width="70%" -->
 
 --
 
-## Voorbeeld doorsnede 2
-
 ![Voorbeeld Doorsnede 2](./images/Doorsnede2.png)<!-- .element height="30%" width="30%" -->
 
 --
 
-## Voorbeeld doorsnede 3
-
-![Voorbeeld Doorsnede 3](./images/Doorsnede3.png)<!-- .element height="80%" width="80%" -->
-
+#![Voorbeeld Doorsnede 3](./images/Doorsnede3.png)<!-- .element height="80%" width="80%" -->
 
 ---
 
@@ -94,10 +77,11 @@ Voorbeelden vloerhoogte (peil)
 
 --
 
-## Voorbeeld doorsnede 1
-
 ![Voorbeeld Vloerhoogte 1](./images/Vloerhoogte1.png)<!-- .element height=" 70%" width="70%" -->
 
+--
+
+![Voorbeeld Vloerhoogte 2](./images/Vloerhoogte2.png)<!-- .element height=" 40%" width="40%" -->
 
 ---
 
