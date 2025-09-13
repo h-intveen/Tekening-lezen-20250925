@@ -8,6 +8,7 @@ Note:
 - g = go to slide
 - s = speaker notes
 - v,b,.,/ = pause/resume
+- Training tekeninglezen kost typisch 5 dagdelens
 
 ---
 
@@ -16,7 +17,7 @@ Note:
  1. Renvooi/Legenda
  2. Doorsneden
  3. Vloerhoogtes
- 4. Lijntypes:
+ 4. Lijntypes
  5. Getal
  6. Symbool
  7. Trap en Lift
@@ -64,19 +65,38 @@ Voorbeelden doorsnedes
 
 ## Voorbeeld doorsnede 1
 
-![Voorbeeld Doorsnede 1](./images/Doorsnede1.png)<!-- .element height="30%" width="30%" -->
+![Voorbeeld Doorsnede 1](./images/Doorsnede1.png)<!-- .element height=" 70%" width="70%" -->
+
+--
+
+## Voorbeeld doorsnede 1A
+
+![Voorbeeld Doorsnede 1A](./images/Doorsnede1a.png)<!-- .element height="70%" width="70%" -->
 
 --
 
 ## Voorbeeld doorsnede 2
 
-![Voorbeeld Doorsnede 2](./images/Doorsnede2.png)<!-- .element height="80%" width="80%" -->
+![Voorbeeld Doorsnede 2](./images/Doorsnede2.png)<!-- .element height="30%" width="30%" -->
+
+--
+
+## Voorbeeld doorsnede 3
+
+![Voorbeeld Doorsnede 3](./images/Doorsnede3.png)<!-- .element height="80%" width="80%" -->
 
 
 ---
 
 # Vloerhoogtes
 
+Voorbeelden vloerhoogte (peil)
+
+--
+
+## Voorbeeld doorsnede 1
+
+![Voorbeeld Vloerhoogte 1](./images/Vloerhoogte1.png)<!-- .element height=" 70%" width="70%" -->
 
 
 ---
