@@ -19,7 +19,8 @@ section.has-dark-background h6 {
  * GLOBAL STYLES
  *********************************************/
 body {
-  background-image: url("images/zaVie.png"), radial-gradient(ellipse at 2% 110%, #009900, rgba(0, 153, 0, 0.3) 15%, rgba(0, 153, 0, 0) 30%);
+/*  background-image: url("images/zaVie.png"), radial-gradient(ellipse at 2% 110%, black, rgba(0, 0, 0, 0.3) 15%, rgba(0, 0, 0, 0) 30%); */
+  background-image: url("images/zaVie.png");
   background-position: left 2% bottom 2%;
   background-size: 15%, 100%;
   background-repeat: no-repeat;

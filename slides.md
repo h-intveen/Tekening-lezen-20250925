@@ -1,3 +1,4 @@
+<!-- .slide: data-menu-title="Frontpage"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.2"; background-size:contain -->
 # Tekening lezen op toegankelijkheid
 24-9-2025
 
@@ -8,25 +9,35 @@ Note:
 - g = go to slide
 - s = speaker notes
 - v,b,.,/ = pause/resume
-- Training tekeninglezen kost typisch 5 dagdelens
 
 ---
 
+<!-- .slide: data-menu-title="Introductie (2)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
 # Inhoudsopgave
 
- 1. Renvooi/Legenda
- 2. Doorsneden
- 3. Vloerhoogtes
+ 1. Inleiding
+ 2. Renvooi/Legenda
+ 3. Codering
  4. Lijntypes
- 5. Getal
- 6. Symbool
- 7. Trap en Lift
+ 5. Vloerhoogtes
+ 6. Deuren
+ 7. Trap, Lift en hellingbaan
+ 8. Doorsnedes
 
 ---
 
+<!-- .slide: data-menu-title="Introductie (2)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
+# Inleiding
+
+- Training tekening lezen kost meestal 5 dagdelen
+- Detaillering tekening afhankelijk van fase: schetsontwerp, globaal ontwerp, definitief ontwerp, detail ontwerp
+- Vragen graag tussendoor
+
+---
+
+<!-- .slide: data-menu-title="Introductie (2)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
 # Renvooi/Legenda
 
-Voorbeelden
 - duiding gebouw / etage / bouwdeel
 - datum
 - codering
@@ -39,6 +50,15 @@ Voorbeelden
 
 ![Voorbeeld legenda 2](./images/Legenda2.png)<!-- .element height="90%" width="90%" -->
 
+---
+
+<!-- .slide: data-menu-title="Introductie (2)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
+# Codering
+
+- Verklaring symbolen
+- Staat soms bij renvooi/legenda
+- Bevat niet betekenis algemene lijntypes
+
 --
 
 ![Voorbeeld legenda 3](./images/Legenda3.png)<!-- .element height="80%" width="80%" -->
@@ -49,6 +69,67 @@ Voorbeelden
 
 ---
 
+<!-- .slide: data-menu-title="Introductie (2)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
+# Lijntypes
+
+- Dikke lijn: contouren product
+- Dunne lijn: maatvoering
+- Hartlijn: Hart van symmetrisch onderdeel
+
+--
+
+![Voorbeeld 1 tekeningdeel](./images/Voorbeeld1.png)<!-- .element height=" 50%" width="50%" -->
+
+--
+
+![Voorbeeld 2 tekeningdeel](./images/Voorbeeld2.png)<!-- .element height=" 58%" width="80%" -->
+
+---
+
+<!-- .slide: data-menu-title="Introductie (2)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
+# Vloerhoogtes
+
+Voorbeelden vloerhoogte (peil)
+
+--
+
+![Voorbeeld Vloerhoogte 1](./images/Vloerhoogte1.png)<!-- .element height=" 70%" width="70%" -->
+
+--
+
+![Voorbeeld Vloerhoogte 2](./images/Vloerhoogte2.png)<!-- .element height=" 40%" width="40%" -->
+
+
+---
+
+<!-- .slide: data-menu-title="Introductie (2)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
+# Deuren
+
+Aandacht voor:
+- Breedte
+- Draairichting
+
+--
+
+![Voorbeeld Deuren](./images/Deuren.png)<!-- .element height=" 60%" width="60%" -->
+
+---
+
+<!-- .slide: data-menu-title="Introductie (2)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
+# Trap, lift en hellingbaan
+
+Let op:
+- Vrij oppervlak voor lift
+- Schuifdeur of draairichting
+- Helling percentage
+
+--
+
+![Trap, Lift en Hellingbaan](./images/TrapLiftHellingbaan.png)<!-- .element height="40%" width="40%" -->
+
+---
+
+<!-- .slide: data-menu-title="Introductie (2)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
 # Doorsnedes
 
 Voorbeelden doorsnedes
@@ -71,41 +152,6 @@ Voorbeelden doorsnedes
 
 ---
 
-# Vloerhoogtes
+![That's all folks](images/Thats_all_Folks.jpg)<!-- .element height="90%" width="90%" -->
 
-Voorbeelden vloerhoogte (peil)
-
---
-
-![Voorbeeld Vloerhoogte 1](./images/Vloerhoogte1.png)<!-- .element height=" 70%" width="70%" -->
-
---
-
-![Voorbeeld Vloerhoogte 2](./images/Vloerhoogte2.png)<!-- .element height=" 40%" width="40%" -->
-
----
-
-# Lijntypes
-
-- Dikke lijn: contouren product
-- Dunne lijn: maatvoering
-- Streepjes of streepstippellijnen: hulplijnen
-- Dunne stippellijn: "onzichtbaar" iets, wel aanwezig maar niet in het zicht
-- Hartlijn: Hart van symmetrisch onderdeel
-
----
-
-# Symbool
-
-- R: radius (straal)
-- ø: diameter
-- Mx/Gx: schroefdraad Metrisch/Gasdraad (2e cirkel 3/4 ingetekend)
-- Gelijkzijdige driekoek in de lengte: Helling bovenaanzicht
-
----
-
-# Deuren
-
-- Breedte
-- Draairichting
-
+**Bedankt voor uw aandacht!**
