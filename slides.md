@@ -1,5 +1,5 @@
-<!-- .slide: data-menu-title="Frontpage"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.2"; background-size:contain -->
-# Tekening lezen op toegankelijkheid
+<!-- .slide: data-menu-title="Frontpage"; data-background-image="images/accessibility4picsSmall.png"; data-state="img-top"; data-background-opacity="0.2"; background-size:contain -->
+# Tekening lezen op Toegankelijkheid
 24-9-2025
 
 Note:
@@ -12,7 +12,7 @@ Note:
 
 ---
 
-<!-- .slide: data-menu-title="Introductie (2)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
+<!-- .slide: data-menu-title="Inhoudsopgave"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
 # Inhoudsopgave
 
  1. Inleiding
@@ -26,7 +26,7 @@ Note:
 
 ---
 
-<!-- .slide: data-menu-title="Introductie (2)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
+<!-- .slide: data-menu-title="Inleiding"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
 # Inleiding
 
 - Training tekening lezen kost meestal 5 dagdelen
@@ -35,7 +35,7 @@ Note:
 
 ---
 
-<!-- .slide: data-menu-title="Introductie (2)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
+<!-- .slide: data-menu-title="Renvooi/Legenda"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
 # Renvooi/Legenda
 
 - duiding gebouw / etage / bouwdeel
@@ -52,7 +52,7 @@ Note:
 
 ---
 
-<!-- .slide: data-menu-title="Introductie (2)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
+<!-- .slide: data-menu-title="Codering"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
 # Codering
 
 - Verklaring symbolen
@@ -69,7 +69,7 @@ Note:
 
 ---
 
-<!-- .slide: data-menu-title="Introductie (2)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
+<!-- .slide: data-menu-title="Lijntypes"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
 # Lijntypes
 
 - Dikke lijn: contouren product
@@ -86,7 +86,7 @@ Note:
 
 ---
 
-<!-- .slide: data-menu-title="Introductie (2)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
+<!-- .slide: data-menu-title="Vloerhoogtes"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
 # Vloerhoogtes
 
 Voorbeelden vloerhoogte (peil)
@@ -102,7 +102,7 @@ Voorbeelden vloerhoogte (peil)
 
 ---
 
-<!-- .slide: data-menu-title="Introductie (2)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
+<!-- .slide: data-menu-title="Deuren"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
 # Deuren
 
 Aandacht voor:
@@ -115,7 +115,7 @@ Aandacht voor:
 
 ---
 
-<!-- .slide: data-menu-title="Introductie (2)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
+<!-- .slide: data-menu-title="Trap, lift en hellingbaan"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
 # Trap, lift en hellingbaan
 
 Let op:
@@ -129,7 +129,7 @@ Let op:
 
 ---
 
-<!-- .slide: data-menu-title="Introductie (2)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
+<!-- .slide: data-menu-title="Doorsnedes"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
 # Doorsnedes
 
 Voorbeelden doorsnedes
@@ -154,4 +154,5 @@ Voorbeelden doorsnedes
 
 ![That's all folks](images/Thats_all_Folks.jpg)<!-- .element height="90%" width="90%" -->
 
+<!-- .slide: data-menu-title="Bedankt voor uw aandacht!"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
 **Bedankt voor uw aandacht!**
