@@ -1,4 +1,4 @@
-<!-- .slide: data-menu-title="Frontpage"; data-background-image="images/accessibility4picsSmall.png"; data-state="img-top"; data-background-opacity="0.2"; background-size:contain -->
+<!-- .slide: data-menu-title="Frontpage"; data-background-image="images/accessibility4picsSmall.png"; data-state="img-bottom"; data-background-opacity="0.2"; background-size:contain -->
 # Tekening lezen op Toegankelijkheid
 24-9-2025
 
