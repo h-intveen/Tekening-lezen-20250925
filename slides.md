@@ -40,7 +40,6 @@ Note:
 
 - duiding gebouw / etage / bouwdeel
 - datum
-- codering
 
 --
 
@@ -142,13 +141,11 @@ Voorbeelden doorsnedes
 
 ![Voorbeeld Doorsnede 1A](./images/Doorsnede1a.png)<!-- .element height="70%" width="70%" -->
 
---
+---
 
-![Voorbeeld Doorsnede 2](./images/Doorsnede2.png)<!-- .element height="30%" width="30%" -->
+# Pratijk
 
---
-
-#![Voorbeeld Doorsnede 3](./images/Doorsnede3.png)<!-- .element height="80%" width="80%" -->
+Samen een tekeing bekijken en begrijpen.
 
 ---
 
