@@ -2,6 +2,9 @@
 # Tekening lezen op Toegankelijkheid
 24-9-2025
 
+#### Dirkje Tuik
+#### Herman in 't Veen
+
 Note:
 - Printen: kan vanuit Chrome met url suffix: ?print-pdf
 - f = full screen (escape to exit)
@@ -23,6 +26,7 @@ Note:
  6. Deuren
  7. Trap, Lift en hellingbaan
  8. Doorsnedes
+ 9. Praktijk
 
 ---
 
@@ -131,7 +135,7 @@ Let op:
 <!-- .slide: data-menu-title="Doorsnedes"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
 # Doorsnedes
 
-Voorbeelden doorsnedes
+Voorbeeld doorsnedes
 
 --
 
@@ -143,9 +147,9 @@ Voorbeelden doorsnedes
 
 ---
 
-# Pratijk
+# Praktijk
 
-Samen een tekeing bekijken en begrijpen.
+Samen een tekening bekijken en begrijpen.
 
 ---
 
